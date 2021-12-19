@@ -7,7 +7,7 @@ written in Java and using the most advanced automation tools on the market.
 <h6>* Web Desktop <br/><br/>* API <br/><br/>* Mobile <br/><br/>* Electron <br/><br/>* Desktop</h6>
 <h3>Automation tools</h3>
 TestNG Framework &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; Selenium &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; REST Assured for API Testing &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; 
-SikuliX &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; Appium &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; MySQL Database &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; OpenCSV 
+SikuliX &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; Appium &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; MySQL Database &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; OpenCSV &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;  
 Jenkins for Test executions & Test Pipelines &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; Allure Reports - Reporting System and more.
 <br/><br/><br/><br/>
 <div style="display:flex;">
