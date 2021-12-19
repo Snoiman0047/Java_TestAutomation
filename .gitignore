@@ -1,0 +1,6 @@
+# Project exclude paths
+/Appium/target/
+/Desktop/target/
+/RestApi/target/
+/Selenium/target/
+/target/
