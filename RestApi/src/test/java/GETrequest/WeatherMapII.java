@@ -9,7 +9,7 @@ import static org.junit.Assert.*;
 public class WeatherMapII {
     String url = "http://api.openweathermap.org/data/2.5/weather";
     String city = "Jerusalem,IL";
-    String key = "9952dee360fd98281720531cc58e473b";
+    String key = "<your_key>";
 
     private RequestSpecification httpRequest;
     private Response response;

@@ -17,7 +17,7 @@ import io.restassured.specification.RequestSpecification;
 public class WeaterMapIII {
     String url = "http://api.openweathermap.org/data/2.5/weather";
     String city = "Jerusalem,IL";
-    String key = "9952dee360fd98281720531cc58e473b";
+    String key = "<your_key>";
 
     RequestSpecification httpRequest;
     Response response;

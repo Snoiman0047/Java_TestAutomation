@@ -10,7 +10,7 @@ import io.restassured.specification.RequestSpecification;
 public class WeatherMapI {
     String url = "http://api.openweathermap.org/data/2.5/weather";
     String city = "Haifa,IL";
-    String key = "9952dee360fd98281720531cc58e473b";
+    String key = "<your_key>";
 
     private RequestSpecification httpRequest;
     private Response response;
